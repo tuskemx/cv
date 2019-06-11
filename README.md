@@ -1,4 +1,4 @@
-I am student of Northcoders, a full stack coding bootcamp teaching a practical, industry-led curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after gruadating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, and began organizing music event across Manchester and Liverpool.
+I am student of Northcoders, a full stack coding bootcamp teaching a practical and industry wise curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after graduating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, and began organizing music event across Manchester and Liverpool.
 
 Technical Skills
 Language: JavaScript
