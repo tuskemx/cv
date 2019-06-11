@@ -3,9 +3,9 @@ I am student of Northcoders, a full stack coding bootcamp teaching a practical, 
 Technical Skills
 Language: JavaScript
 
-Back End: Node.js, Express, SQL, Heroku
+Back End: Node.js, Express, SQL, Heroku, Knex, Axios
 
-Front End: ​React, HTML, CSS, Sass
+Front End: ​React, HTML, CSS, Sass, Axios
 
 Testing: ​Jest, Cypress, Chai, Sinon, Mocha
 
