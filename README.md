@@ -59,7 +59,7 @@ Long & McQuade Music Shop Canada Summers 2013 & 2014.
 
 
 Education & Qualifications
-BA Joint Hons, 2:1 | Philisophy & Politics | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A-C
+BA Joint Hons, 2:1 | Philisophy & Politics | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A*-C
 
 Interests
 music, baking, reading
