@@ -1,4 +1,4 @@
-I am student of Northcoders, a full stack coding bootcamp teaching a practical, industry-led curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after gruadating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, taught English abroad in Bulgaria and began organizing music event across Manchester and Liverpool.
+I am student of Northcoders, a full stack coding bootcamp teaching a practical, industry-led curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after gruadating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, and began organizing music event across Manchester and Liverpool.
 
 Technical Skills
 Language: JavaScript
@@ -53,8 +53,9 @@ Oct 2018 - March 2019
 National Trust 
 Jan 2018 - September 2018
 
-English Tutor Bulgaria Opair
-October 2017-December 2017
+Almost Famous Liverpool Bartender, Jan 2016 - Nov 216
+
+Long & McQuade Music Shop Canada Summers 2013 & 2014.
 
 
 Education & Qualifications
