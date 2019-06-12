@@ -19,7 +19,7 @@ Front-End: React, HTML, CSS, Sass
 
 https://github.com/tuskemx/News-Project
 
-https://mystifying-elion-47ea65.netlify.com/5?fbclid=IwAR2eC6o5fXQaGWJ0aRzvq3LPYpaCiQQrNJ2Qu1I6qzQirsrMUZw5o78R08I
+https://matthew-edwards-tuskemx.netlify.com
 
 Back-End: Node.js, Express, SQL, Heroku
 
