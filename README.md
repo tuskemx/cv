@@ -1,11 +1,11 @@
-I am student of Northcoders, a full stack coding bootcamp teaching a practical, industry-led curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after gruadating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, and began organizing music event across Manchester and Liverpool.
+I am student of Northcoders, a full stack coding bootcamp teaching a practical and industry wise curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after graduating from Liverpool University) I worked in at the National Trust at Dunham Massey in Altrincham, and began organizing music event across Manchester and Liverpool.
 
 Technical Skills
 Language: JavaScript
 
-Back End: Node.js, Express, SQL, Heroku
+Back End: Node.js, Express, SQL, Heroku, Knex, Axios
 
-Front End: ​React, HTML, CSS, Sass
+Front End: ​React, HTML, CSS, Sass, Axios
 
 Testing: ​Jest, Cypress, Chai, Sinon, Mocha
 
@@ -59,7 +59,7 @@ Long & McQuade Music Shop Canada Summers 2013 & 2014.
 
 
 Education & Qualifications
-BA Joint Hons, 2:1 | Philisophy & Politics | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A-C
+BA Joint Hons, 2:1 | Philisophy & Politics | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A*-C
 
 Interests
 music, baking, reading
