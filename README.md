@@ -3,16 +3,16 @@ I am student of Northcoders, a full stack coding bootcamp teaching a practical a
 <h2>Technical Skills</h2>
 Language: JavaScript
 
-Back End: Node.js, Express, SQL, Heroku, Knex, Axios
-
 Front End: ​React, HTML, CSS, Axios
+
+Back End: Node.js, Express, SQL, Heroku, Knex, Axios
 
 Testing: ​Jest, Cypress, Chai, Sinon, Mocha
 
 <h2>Projects:</h2>
 NC News (June 2019)
 
-NC news is a news aggregate site, signed in users can rate and post comments and articles or create topics. All of these features are utilized using axios and the back-end API using optimistic rendering.
+NC news is a news aggregate site, signed in users can rate articles, post comments or create topics. 
 
 <h3>Front-End: Javascript, React, HTML, CSS</h3>
 
@@ -42,12 +42,12 @@ Project //
 Trainee Full Stack Software Developer, Northcoders
 April 2019 - July 2019 
 
-Starting off with the fundamentals and best practises of programming, to understanding and utilising test-driven development, pair programming and object-oriented programming. My experience with back end and front end technologies covering asynchronous programming, APIs, databases, DOM, HTML, CSS, UX and React while creating a full stack web application called NC News.
+Greatly developed my knowledge of back end and front end technologies covering APIs, databases, DOM, HTML, CSS, UX, asynchronous programming, and React while creating a full stack web application NC News.
 
 Club Booker & Organiser @ CLUB PELICON
 November 2016 – Current
 
-I have curated regular underground electronic music events in Manchester and Liverpool over the past 3 years. Duties include artist liason, venue organisation, sound design, creating art / poster design and establishing a somewhat large social media presence through social media marketing.
+As part of a collective, I have curated regular underground electronic music events in Manchester and Liverpool over the past 3 years. Duties include artist liason, venue organisation, sound design, creating art / poster design and establishing a somewhat large social media presence through social media marketing.
 
 https://www.facebook.com/clubpelicon/
 
