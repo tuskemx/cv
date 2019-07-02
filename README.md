@@ -17,9 +17,9 @@ NC news is a news aggregate site, signed in users can rate and post comments and
 Front-End: React, HTML, CSS, Sass
 
 
-https://github.com/tuskemx/News-Project
+https://github.com/tuskemx/News-Project-Alt
 
-https://matthew-edwards-tuskemx.netlify.com
+https://belairnews.netlify.com/
 
 Back-End: Node.js, Express, SQL, Heroku
 
