@@ -42,7 +42,7 @@ Project //
 Trainee Full Stack Software Developer, Northcoders
 April 2019 - July 2019 
 
-Greatly developed my knowledge of back end and front end technologies covering APIs, databases, DOM, HTML, CSS, UX, asynchronous programming, and React while creating a full stack web application NC News.
+Greatly developed my knowledge of back end and front end technologies covering APIs, databases, DOM, HTML, CSS, UX, asynchronous programming, and React while creating a full stack web applications NC News (reddit-style articleboard) & YesterYear (Augmented Reality App where users can see how areas in Manchester used to look).
 
 Club Booker & Organiser @ CLUB PELICON
 November 2016 – Current
