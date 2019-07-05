@@ -67,6 +67,6 @@ Long & McQuade Music Shop Assistant - Toronto, Canada, June-August 2013 & 2014.
 
 
 <h2>Education & Qualifications</h2>
-BA Joint Hons, 2:1 (69) | Philisophy & Politics | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A*-C
+University of Liverpool Philisophy & Politics, BA Joint Hons, 2:1 (69) | Xaverian College: Politics & Government A*, English Lit A, General Studies B, Classical Civilisations C, Chorlton High 10x GCSE A*-C
 
 
