@@ -10,13 +10,16 @@ Back End: Node.js, Express, SQL, Heroku, Knex, Axios
 Testing: ​Jest, Cypress, Chai, Sinon, Mocha
 
 <h2>Projects:</h2>
+
+yesteryeAR (July 2019) 
+
+Android Augmented Reality app, where users can see how select locations used to look in Manchester. Utilizing ViroReact AR with GOOGLE ARcore for React Native, Firebase & Redux.
+
 NC News (June 2019)
 
 NC news is a news aggregate site, signed in users can rate articles, post comments or create topics. 
 
-YesterYear (July 2019) -- Pending
 
-Android Augmented Reality app, where users can see how select locations used to look in Manchester. Utilizing ViroReact AR with GOOGLE ARcore for React Native.
 
 <h3>Front-End: Javascript, React, HTML, CSS</h3>
 
@@ -35,9 +38,7 @@ https://mynewsapp-matthew.herokuapp.com/api
 
 https://tuskemx.github.io/portfolio/
 
-Whats next?
 
-Project //
 
 
 
