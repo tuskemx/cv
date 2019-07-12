@@ -11,28 +11,28 @@ Testing: ​Jest, Cypress, Chai, Sinon, Mocha
 
 <h2>Projects:</h2>
 
-yesteryeAR (July 2019) 
-
-Android Augmented Reality app, where users can see how select locations used to look in Manchester. Utilizing ViroReact AR with GOOGLE ARcore for React Native, Firebase & Redux.
-
 NC News (June 2019)
 
 NC news is a news aggregate site, signed in users can rate articles, post comments or create topics. 
 
 
-
 <h3>Front-End: Javascript, React, HTML, CSS</h3>
-
-
-https://github.com/tuskemx/News-Project-Alt
 
 https://belairnews.netlify.com/
 
+https://github.com/tuskemx/News-Project-Alt
+
+
 <h3>Back-End: Node.js, Express, SQL, Heroku</h3>
+
+https://mynewsapp-matthew.herokuapp.com/api
 
 https://github.com/tuskemx/NC-news-review
 
-https://mynewsapp-matthew.herokuapp.com/api
+
+yesteryeAR (July 2019) 
+
+Android Augmented Reality app, where users can see how select locations used to look in Manchester. Utilizing ViroReact AR with GOOGLE ARcore for React Native, Firebase & Redux.
 
 <h3>Portfolio: </h3>
 
