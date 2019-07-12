@@ -1,4 +1,4 @@
-I am student of Northcoders, a full stack coding bootcamp teaching a practical and industry wise curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after graduating from Liverpool University) I worked at the National Trust at Dunham Massey in Altrincham, and began organizing music events across Manchester and Liverpool.
+I am student of Northcoders, a full stack coding bootcamp teaching a practical and industry wise curriculum. While studying, I have utilized a variety of modern tech methods, creating both a front-end and back-end for a news aggregate website. Prior to studying at Northcoders (and after graduating from Liverpool University) I worked at the National Trust at Dunham Massey, and began organizing music events across Manchester and Liverpool.
 
 <h2>Technical Skills</h2>
 Language: JavaScript
@@ -41,9 +41,8 @@ https://tuskemx.github.io/portfolio/
 
 
 
-
-
 <h2>Employment History & Education</h2>
+
 Trainee Full Stack Software Developer, Northcoders
 April 2019 - July 2019 
 
@@ -52,7 +51,7 @@ Greatly developed my knowledge of back end and front end technologies covering A
 Club Booker & Organiser @ CLUB PELICON
 November 2016 – Current
 
-As part of a collective, I have curated regular underground electronic music events in Manchester and Liverpool over the past 3 years. Duties include artist liason, venue organisation, sound design, creating art / poster design and establishing a somewhat large social media presence through social media marketing.
+As part of a collective, I have curated regular underground electronic music events with a focus on gender-balance in Manchester and Liverpool over the past 3 years. Duties include artist liason, venue organisation, sound design, creating art / poster design and establishing a moderately large social media presence through social media marketing.
 
 https://www.facebook.com/clubpelicon/
 
@@ -61,8 +60,11 @@ Oct 2018 - March 2019
 
 GCSE Marking Temporary contract, Media City, Salford April 2018, June 2018
 
-National Trust, Customer Assistant - Dunham Massey
-Jan 2018 - September 2018
+Whitechapel - Help the Homeless Volunteer, Liverpool, December 2017 - June 2018
+
+On a weekly basis for the period my duties included sorting donations, distributing them to service users and distinguishing between valuable items (e.g branded clothes) to be resold or recycled. 
+
+National Trust, Customer Assistant - Dunham Massey, Jan 2018 - September 2018
 
 Deliveroo Rider, Nov 2016 - Nov 2018
 
